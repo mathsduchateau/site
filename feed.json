@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://mathsduchateau.github.io/site/un-nouvel-article.html",
+            "url": "https://mathsduchateau.github.io/site/un-nouvel-article.html",
+            "title": "Un nouvel article",
+            "summary": "Voici un nouvel article. Avec une vidéo: ",
+            "content_html": "<p>Voici un nouvel article. Avec une vidéo:</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/-gDinVAmtA0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "Alan CASTELLINO"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-16T20:12:38+02:00",
+            "date_modified": "2021-07-16T20:12:38+02:00"
+        },
+        {
             "id": "https://mathsduchateau.github.io/site/atelier-pix-pause-meridienne.html",
             "url": "https://mathsduchateau.github.io/site/atelier-pix-pause-meridienne.html",
             "title": "&quot;Atelier PIX&quot; pause méridienne",

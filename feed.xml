@@ -3,12 +3,33 @@
     <title>SiteSNT</title>
     <link href="https://mathsduchateau.github.io/site/feed.xml" rel="self" />
     <link href="https://mathsduchateau.github.io/site" />
-    <updated>2021-07-05T07:12:42+02:00</updated>
+    <updated>2021-07-16T20:12:38+02:00</updated>
     <author>
         <name>Alan CASTELLINO</name>
     </author>
     <id>https://mathsduchateau.github.io/site</id>
 
+    <entry>
+        <title>Un nouvel article</title>
+        <author>
+            <name>Alan CASTELLINO</name>
+        </author>
+        <link href="https://mathsduchateau.github.io/site/un-nouvel-article.html"/>
+        <id>https://mathsduchateau.github.io/site/un-nouvel-article.html</id>
+
+        <updated>2021-07-16T20:12:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Voici un nouvel article. Avec une vidéo: 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Voici un nouvel article. Avec une vidéo:</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/-gDinVAmtA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>&quot;Atelier PIX&quot; pause méridienne</title>
         <author>
