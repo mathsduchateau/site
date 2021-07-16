@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>SiteSNT</title>
+    <link href="https://mathsduchateau.github.io/site/feed.xml" rel="self" />
+    <link href="https://mathsduchateau.github.io/site" />
+    <updated>2021-07-05T07:12:42+02:00</updated>
+    <author>
+        <name>Alan CASTELLINO</name>
+    </author>
+    <id>https://mathsduchateau.github.io/site</id>
+
+    <entry>
+        <title>&quot;Atelier PIX&quot; pause méridienne</title>
+        <author>
+            <name>Alan CASTELLINO</name>
+        </author>
+        <link href="https://mathsduchateau.github.io/site/atelier-pix-pause-meridienne.html"/>
+        <id>https://mathsduchateau.github.io/site/atelier-pix-pause-meridienne.html</id>
+
+        <updated>2021-07-05T07:12:42+02:00</updated>
+            <summary>
+                <![CDATA[
+                     Lien vers le document partagé 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Lien vers le <a href="https://codi-nice.beta.education.fr/LZYA977zTfmzaeFlYF8JTQ?view">document partagé</a>
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Formation 2020-2021</title>
+        <author>
+            <name>Alan CASTELLINO</name>
+        </author>
+        <link href="https://mathsduchateau.github.io/site/formation-2020-2021.html"/>
+        <id>https://mathsduchateau.github.io/site/formation-2020-2021.html</id>
+
+        <updated>2021-07-04T21:00:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Documents d'accompagnement Compte-rendu de formation Diaporama Exemple de séquence créée avec Scenari: Version en ligne Version papier Source Source Jupyter Notebook (basthon): TP autour de l'image numérique Source AppInventor: projet DirtTracker 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Documents d'accompagnement</h2>
+<ul>
+<li><a href="media/files/formation_snt_def.pdf">Compte-rendu</a> de formation</li>
+<li><a href="media/files/pres.pdf">Diaporama</a></li>
+</ul>
+<h2>Exemple de séquence créée avec Scenari:</h2>
+<ul>
+<li>Version <a href="media/files/Ch0_Introduction_web_gen_auroraW/index.html">en ligne</a></li>
+<li>Version <a href="https://mathsduchateau.github.io/site/media/files/Ch0_Introduction_papier.pdf">papier</a></li>
+</ul>
+<h2>Source</h2>
+<ul>
+<li>Source Jupyter Notebook (basthon): <a href="media/files/TP_image.ipynb">TP</a> autour de l'image numérique</li>
+<li>Source AppInventor: <a href="media/files/Dirt_Tracker.aia">projet</a> DirtTracker</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
