@@ -2,16 +2,30 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "SiteSNT",
     "description": "",
-    "home_page_url": "https://mathsduchateau.github.io/site",
-    "feed_url": "https://mathsduchateau.github.io/site/feed.json",
+    "home_page_url": "https://mathsduchateau.github.io/snt",
+    "feed_url": "https://mathsduchateau.github.io/snt/feed.json",
     "user_comment": "",
     "author": {
         "name": "Alan CASTELLINO"
     },
     "items": [
         {
-            "id": "https://mathsduchateau.github.io/site/un-nouvel-article.html",
-            "url": "https://mathsduchateau.github.io/site/un-nouvel-article.html",
+            "id": "https://mathsduchateau.github.io/snt/encore-un-nouveau-post.html",
+            "url": "https://mathsduchateau.github.io/snt/encore-un-nouveau-post.html",
+            "title": "Encore un nouveau post",
+            "summary": " Voici un nouveau post. ",
+            "content_html": "\n  <p>\n    Voici un nouveau post.\n  </p>",
+            "author": {
+                "name": "Alan CASTELLINO"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-29T14:16:18+02:00",
+            "date_modified": "2021-07-29T14:16:18+02:00"
+        },
+        {
+            "id": "https://mathsduchateau.github.io/snt/un-nouvel-article.html",
+            "url": "https://mathsduchateau.github.io/snt/un-nouvel-article.html",
             "title": "Un nouvel article",
             "summary": "Voici un nouvel article. Avec une vidéo: ",
             "content_html": "<p>Voici un nouvel article. Avec une vidéo:</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/-gDinVAmtA0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
@@ -24,8 +38,8 @@
             "date_modified": "2021-07-16T20:12:38+02:00"
         },
         {
-            "id": "https://mathsduchateau.github.io/site/atelier-pix-pause-meridienne.html",
-            "url": "https://mathsduchateau.github.io/site/atelier-pix-pause-meridienne.html",
+            "id": "https://mathsduchateau.github.io/snt/atelier-pix-pause-meridienne.html",
+            "url": "https://mathsduchateau.github.io/snt/atelier-pix-pause-meridienne.html",
             "title": "&quot;Atelier PIX&quot; pause méridienne",
             "summary": " Lien vers le document partagé ",
             "content_html": "\n  <p>\n    Lien vers le <a href=\"https://codi-nice.beta.education.fr/LZYA977zTfmzaeFlYF8JTQ?view\">document partagé</a>\n  </p>",
@@ -38,11 +52,11 @@
             "date_modified": "2021-07-05T07:12:42+02:00"
         },
         {
-            "id": "https://mathsduchateau.github.io/site/formation-2020-2021.html",
-            "url": "https://mathsduchateau.github.io/site/formation-2020-2021.html",
+            "id": "https://mathsduchateau.github.io/snt/formation-2020-2021.html",
+            "url": "https://mathsduchateau.github.io/snt/formation-2020-2021.html",
             "title": "Formation 2020-2021",
             "summary": "Documents d'accompagnement Compte-rendu de formation Diaporama Exemple de séquence créée avec Scenari: Version en ligne Version papier Source Source Jupyter Notebook (basthon): TP autour de l'image numérique Source AppInventor: projet DirtTracker ",
-            "content_html": "<h2>Documents d'accompagnement</h2>\n<ul>\n<li><a href=\"media/files/formation_snt_def.pdf\">Compte-rendu</a> de formation</li>\n<li><a href=\"media/files/pres.pdf\">Diaporama</a></li>\n</ul>\n<h2>Exemple de séquence créée avec Scenari:</h2>\n<ul>\n<li>Version <a href=\"media/files/Ch0_Introduction_web_gen_auroraW/index.html\">en ligne</a></li>\n<li>Version <a href=\"https://mathsduchateau.github.io/site/media/files/Ch0_Introduction_papier.pdf\">papier</a></li>\n</ul>\n<h2>Source</h2>\n<ul>\n<li>Source Jupyter Notebook (basthon): <a href=\"media/files/TP_image.ipynb\">TP</a> autour de l'image numérique</li>\n<li>Source AppInventor: <a href=\"media/files/Dirt_Tracker.aia\">projet</a> DirtTracker</li>\n</ul>",
+            "content_html": "<h2>Documents d'accompagnement</h2>\n<ul>\n<li><a href=\"media/files/formation_snt_def.pdf\">Compte-rendu</a> de formation</li>\n<li><a href=\"media/files/pres.pdf\">Diaporama</a></li>\n</ul>\n<h2>Exemple de séquence créée avec Scenari:</h2>\n<ul>\n<li>Version <a href=\"media/files/Ch0_Introduction_web_gen_auroraW/index.html\">en ligne</a></li>\n<li>Version <a href=\"https://mathsduchateau.github.io/snt/media/files/Ch0_Introduction_papier.pdf\">papier</a></li>\n</ul>\n<h2>Source</h2>\n<ul>\n<li>Source Jupyter Notebook (basthon): <a href=\"media/files/TP_image.ipynb\">TP</a> autour de l'image numérique</li>\n<li>Source AppInventor: <a href=\"media/files/Dirt_Tracker.aia\">projet</a> DirtTracker</li>\n</ul>",
             "author": {
                 "name": "Alan CASTELLINO"
             },
