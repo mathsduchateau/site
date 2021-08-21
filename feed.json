@@ -14,14 +14,14 @@
             "url": "https://mathsduchateau.github.io/snt/chapitre-0-introduction-2.html",
             "title": "Chapitre 0: introduction",
             "summary": "Objectifs Découvrir la discipline SNT Appréhender les 5 piliers sur lesquels repose le numérique Utiliser efficacement un environnement de travail informatisé S’initier à l’algorithmique et à la programmation en Python Ressources disponibles Diaporama de rentrée Documents du chapitre en version Web Documents du chapitre en&hellip;",
-            "content_html": "<h2 id=\"objectifs\">Objectifs</h2>\n<ul>\n<li>Découvrir la discipline SNT</li>\n<li>Appréhender les 5 piliers sur lesquels repose le numérique</li>\n<li>Utiliser efficacement un environnement de travail informatisé</li>\n<li>S’initier à l’algorithmique et à la programmation en Python</li>\n</ul>\n<h2 id=\"ressources-disponibles\">Ressources disponibles</h2>\n<ul>\n<li><a href=\"/media/files/ch0/pres.html\">Diaporama</a> de rentrée</li>\n<li>Documents du chapitre en <a href=\"/media/files/ch0/auroraW/index.html\">version Web</a></li>\n<li>Documents du chapitre en <a href=\"/media/files/ch0/Ch0_Introduction_papier.pdf\">version papier</a></li>\n</ul>\n",
+            "content_html": "<h2 id=\"objectifs\">Objectifs</h2>\n<ul>\n<li>Découvrir la discipline SNT</li>\n<li>Appréhender les 5 piliers sur lesquels repose le numérique</li>\n<li>Utiliser efficacement un environnement de travail informatisé</li>\n<li>S’initier à l’algorithmique et à la programmation en Python</li>\n</ul>\n<h2 id=\"ressources-disponibles\">Ressources disponibles</h2>\n<ul>\n<li><a href=\"snt/media/files/ch0/snt.html\">Diaporama</a> de rentrée</li>\n<li>Documents du chapitre en <a href=\"snt/media/files/ch0/auroraW/index.html\">version Web</a></li>\n<li>Documents du chapitre en <a href=\"snt/media/files/ch0/Ch0_Introduction_papier.pdf\">version papier</a></li>\n</ul>\n",
             "author": {
                 "name": "M. CASTELLINO"
             },
             "tags": [
             ],
             "date_published": "2021-08-21T14:00:19+02:00",
-            "date_modified": "2021-08-21T14:00:19+02:00"
+            "date_modified": "2021-08-21T14:08:14+02:00"
         },
         {
             "id": "https://mathsduchateau.github.io/snt/un-nouvel-article.html",

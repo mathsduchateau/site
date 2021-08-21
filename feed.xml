@@ -3,7 +3,7 @@
     <title>Ressources en SNT</title>
     <link href="https://mathsduchateau.github.io/snt/feed.xml" rel="self" />
     <link href="https://mathsduchateau.github.io/snt" />
-    <updated>2021-08-21T14:00:37+02:00</updated>
+    <updated>2021-08-21T14:08:14+02:00</updated>
     <author>
         <name>M. CASTELLINO</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://mathsduchateau.github.io/snt/chapitre-0-introduction-2.html"/>
         <id>https://mathsduchateau.github.io/snt/chapitre-0-introduction-2.html</id>
 
-        <updated>2021-08-21T14:00:19+02:00</updated>
+        <updated>2021-08-21T14:08:14+02:00</updated>
             <summary>
                 <![CDATA[
                     Objectifs Découvrir la discipline SNT Appréhender les 5 piliers sur lesquels repose le numérique Utiliser efficacement un environnement de travail informatisé S’initier à l’algorithmique et à la programmation en Python Ressources disponibles Diaporama de rentrée Documents du chapitre en version Web Documents du chapitre en&hellip;
@@ -34,9 +34,9 @@
 </ul>
 <h2 id="ressources-disponibles">Ressources disponibles</h2>
 <ul>
-<li><a href="/media/files/ch0/pres.html">Diaporama</a> de rentrée</li>
-<li>Documents du chapitre en <a href="/media/files/ch0/auroraW/index.html">version Web</a></li>
-<li>Documents du chapitre en <a href="/media/files/ch0/Ch0_Introduction_papier.pdf">version papier</a></li>
+<li><a href="snt/media/files/ch0/snt.html">Diaporama</a> de rentrée</li>
+<li>Documents du chapitre en <a href="snt/media/files/ch0/auroraW/index.html">version Web</a></li>
+<li>Documents du chapitre en <a href="snt/media/files/ch0/Ch0_Introduction_papier.pdf">version papier</a></li>
 </ul>
 
             ]]>
