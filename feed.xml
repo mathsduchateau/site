@@ -3,7 +3,7 @@
     <title>Ressources en SNT</title>
     <link href="https://mathsduchateau.github.io/snt/feed.xml" rel="self" />
     <link href="https://mathsduchateau.github.io/snt" />
-    <updated>2021-08-24T18:58:11+02:00</updated>
+    <updated>2021-08-24T19:01:41+02:00</updated>
     <author>
         <name>M. CASTELLINO</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://mathsduchateau.github.io/snt/le-web.html"/>
         <id>https://mathsduchateau.github.io/snt/le-web.html</id>
 
-        <updated>2021-08-24T18:58:11+02:00</updated>
+        <updated>2021-08-24T19:01:07+02:00</updated>
             <summary>
                 <![CDATA[
                     Projet: création d’un mini-site Web Le diaporama de présentation L’énoncé détaillé L’archive contenant l’application à installer (Publii) est disponible sur le Groupe Teams du cours de SNT 
@@ -43,7 +43,7 @@
         <link href="https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html"/>
         <id>https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html</id>
 
-        <updated>2021-08-24T18:41:29+02:00</updated>
+        <updated>2021-08-24T19:01:41+02:00</updated>
             <summary>
                 <![CDATA[
                     Mini-projet: panorama des réseaux sociaux Le diaporama de présentation 
@@ -53,7 +53,7 @@
             <![CDATA[
                 <h2 id="mini-projet-panorama-des-réseaux-sociaux">Mini-projet: panorama des réseaux sociaux</h2>
 <ul>
-<li>Le diaporama de présentation</li>
+<li>Le <a href="/snt/media/files/rs/projet_rs.html">diaporama</a> de présentation</li>
 </ul>
 
             ]]>
