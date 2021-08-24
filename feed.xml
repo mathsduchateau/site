@@ -3,7 +3,7 @@
     <title>Ressources en SNT</title>
     <link href="https://mathsduchateau.github.io/snt/feed.xml" rel="self" />
     <link href="https://mathsduchateau.github.io/snt" />
-    <updated>2021-08-24T19:01:41+02:00</updated>
+    <updated>2021-08-24T22:42:40+02:00</updated>
     <author>
         <name>M. CASTELLINO</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://mathsduchateau.github.io/snt/le-web.html"/>
         <id>https://mathsduchateau.github.io/snt/le-web.html</id>
 
-        <updated>2021-08-24T19:01:07+02:00</updated>
+        <updated>2021-08-24T22:42:40+02:00</updated>
             <summary>
                 <![CDATA[
-                    Projet: création d’un mini-site Web Le diaporama de présentation L’énoncé détaillé L’archive contenant l’application à installer (Publii) est disponible sur le Groupe Teams du cours de SNT 
+                    Projet: création d’un mini-site Web Le diaporama de présentation L’énoncé détaillé L’archive contenant l’application à installer (Publii) est disponible sur le Groupe Teams du cours de SNT Carte mentale pour vous aider dans la réalisation du projet :smile: 
                 ]]>
             </summary>
         <content type="html">
@@ -28,9 +28,11 @@
                 <h2 id="projet-création-dun-mini-site-web">Projet: création d’un mini-site Web</h2>
 <ul>
 <li>Le <a href="/snt/media/files/web/projet_site.html">diaporama</a> de présentation</li>
-<li>L’énoncé détaillé</li>
+<li>L’<a href="/snt/media/files/web/projet_web.pdf">énoncé</a> détaillé</li>
 <li>L’archive contenant l’application à installer (Publii) est disponible sur le <strong>Groupe Teams</strong> du cours de SNT</li>
+<li>Carte mentale pour vous aider dans la réalisation du projet :smile:</li>
 </ul>
+<p><figure class="post__image"><img loading="lazy" src="/snt/media/files/web/mindmap_projet_web.jpg" data-is-external-image="true"  alt="mindmap" /></figure></p>
 
             ]]>
         </content>
@@ -100,7 +102,7 @@
         <link href="https://mathsduchateau.github.io/snt/un-nouvel-article.html"/>
         <id>https://mathsduchateau.github.io/snt/un-nouvel-article.html</id>
 
-        <updated>2021-08-24T18:46:45+02:00</updated>
+        <updated>2021-08-24T22:04:28+02:00</updated>
             <summary>
                 <![CDATA[
                     Cliquez sur un chapitre pour accéder au contenu correspondant. Chapitre 0: Introduction Chapitre 1: La photographie numérique Chapitre 2: Les données structurées Chapitre 3: Internet Chapitre 4: Les réseaux sociaux Chapitre 5: Le Web Chapitre 6: Informatique embarquée Chapitre 7: La géolocalisation

@@ -13,15 +13,15 @@
             "id": "https://mathsduchateau.github.io/snt/le-web.html",
             "url": "https://mathsduchateau.github.io/snt/le-web.html",
             "title": "Le Web",
-            "summary": "Projet: création d’un mini-site Web Le diaporama de présentation L’énoncé détaillé L’archive contenant l’application à installer (Publii) est disponible sur le Groupe Teams du cours de SNT ",
-            "content_html": "<h2 id=\"projet-création-dun-mini-site-web\">Projet: création d’un mini-site Web</h2>\n<ul>\n<li>Le <a href=\"/snt/media/files/web/projet_site.html\">diaporama</a> de présentation</li>\n<li>L’énoncé détaillé</li>\n<li>L’archive contenant l’application à installer (Publii) est disponible sur le <strong>Groupe Teams</strong> du cours de SNT</li>\n</ul>\n",
+            "summary": "Projet: création d’un mini-site Web Le diaporama de présentation L’énoncé détaillé L’archive contenant l’application à installer (Publii) est disponible sur le Groupe Teams du cours de SNT Carte mentale pour vous aider dans la réalisation du projet :smile: ",
+            "content_html": "<h2 id=\"projet-création-dun-mini-site-web\">Projet: création d’un mini-site Web</h2>\n<ul>\n<li>Le <a href=\"/snt/media/files/web/projet_site.html\">diaporama</a> de présentation</li>\n<li>L’<a href=\"/snt/media/files/web/projet_web.pdf\">énoncé</a> détaillé</li>\n<li>L’archive contenant l’application à installer (Publii) est disponible sur le <strong>Groupe Teams</strong> du cours de SNT</li>\n<li>Carte mentale pour vous aider dans la réalisation du projet :smile:</li>\n</ul>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"/snt/media/files/web/mindmap_projet_web.jpg\" data-is-external-image=\"true\"  alt=\"mindmap\" /></figure></p>\n",
             "author": {
                 "name": "M. CASTELLINO"
             },
             "tags": [
             ],
             "date_published": "2021-08-24T18:43:09+02:00",
-            "date_modified": "2021-08-24T19:01:07+02:00"
+            "date_modified": "2021-08-24T22:42:40+02:00"
         },
         {
             "id": "https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html",
@@ -63,7 +63,7 @@
             "tags": [
             ],
             "date_published": "2021-07-16T20:12:38+02:00",
-            "date_modified": "2021-08-24T18:46:45+02:00"
+            "date_modified": "2021-08-24T22:04:28+02:00"
         }
     ]
 }
