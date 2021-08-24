@@ -3,12 +3,62 @@
     <title>Ressources en SNT</title>
     <link href="https://mathsduchateau.github.io/snt/feed.xml" rel="self" />
     <link href="https://mathsduchateau.github.io/snt" />
-    <updated>2021-08-21T14:13:41+02:00</updated>
+    <updated>2021-08-24T18:56:11+02:00</updated>
     <author>
         <name>M. CASTELLINO</name>
     </author>
     <id>https://mathsduchateau.github.io/snt</id>
 
+    <entry>
+        <title>Le Web</title>
+        <author>
+            <name>M. CASTELLINO</name>
+        </author>
+        <link href="https://mathsduchateau.github.io/snt/le-web.html"/>
+        <id>https://mathsduchateau.github.io/snt/le-web.html</id>
+
+        <updated>2021-08-24T18:56:11+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Projet: création d’un mini-site Web Le diaporama de présentation L’énoncé détaillé L’archive contenant l’application à installer (Publii) est disponible sur le Groupe Teams du cours de SNT 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="projet-création-dun-mini-site-web">Projet: création d’un mini-site Web</h2>
+<ul>
+<li>Le <a href="/snt/media/files/rs/projet_rs.html">diaporama</a> de présentation</li>
+<li>L’énoncé détaillé</li>
+<li>L’archive contenant l’application à installer (Publii) est disponible sur le <strong>Groupe Teams</strong> du cours de SNT</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Les réseaux sociaux</title>
+        <author>
+            <name>M. CASTELLINO</name>
+        </author>
+        <link href="https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html"/>
+        <id>https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html</id>
+
+        <updated>2021-08-24T18:41:29+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Mini-projet: panorama des réseaux sociaux Le diaporama de présentation 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mini-projet-panorama-des-réseaux-sociaux">Mini-projet: panorama des réseaux sociaux</h2>
+<ul>
+<li>Le diaporama de présentation</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Chapitre 0: introduction</title>
         <author>
@@ -50,7 +100,7 @@
         <link href="https://mathsduchateau.github.io/snt/un-nouvel-article.html"/>
         <id>https://mathsduchateau.github.io/snt/un-nouvel-article.html</id>
 
-        <updated>2021-08-21T14:00:37+02:00</updated>
+        <updated>2021-08-24T18:46:45+02:00</updated>
             <summary>
                 <![CDATA[
                     Cliquez sur un chapitre pour accéder au contenu correspondant. Chapitre 0: Introduction Chapitre 1: La photographie numérique Chapitre 2: Les données structurées Chapitre 3: Internet Chapitre 4: Les réseaux sociaux Chapitre 5: Le Web Chapitre 6: Informatique embarquée Chapitre 7: La géolocalisation
@@ -63,8 +113,8 @@
 <p>Chapitre 1: La photographie numérique</p>
 <p>Chapitre 2: Les données structurées</p>
 <p>Chapitre 3: Internet</p>
-<p>Chapitre 4: Les réseaux sociaux</p>
-<p>Chapitre 5: Le Web</p>
+<p><a href="https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html">Chapitre 4: Les réseaux sociaux</a></p>
+<p><a href="https://mathsduchateau.github.io/snt/le-web.html">Chapitre 5: Le Web</a></p>
 <p>Chapitre 6: Informatique embarquée</p>
 <p>Chapitre 7: La géolocalisation</p>
             ]]>
