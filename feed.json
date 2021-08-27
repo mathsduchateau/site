@@ -13,15 +13,15 @@
             "id": "https://mathsduchateau.github.io/snt/le-web.html",
             "url": "https://mathsduchateau.github.io/snt/le-web.html",
             "title": "Le Web",
-            "summary": "Projet: création d’un mini-site Web Le diaporama de présentation L’énoncé détaillé L’archive contenant l’application à installer (Publii) est disponible sur le Groupe Teams du cours de SNT Carte mentale pour vous aider dans la réalisation du projet :smile: ",
-            "content_html": "<h2 id=\"projet-création-dun-mini-site-web\">Projet: création d’un mini-site Web</h2>\n<ul>\n<li>Le <a href=\"/snt/media/files/web/projet_site.html\">diaporama</a> de présentation</li>\n<li>L’<a href=\"/snt/media/files/web/projet_web.pdf\">énoncé</a> détaillé</li>\n<li>L’archive contenant l’application à installer (Publii) est disponible sur le <strong>Groupe Teams</strong> du cours de SNT</li>\n<li>Carte mentale pour vous aider dans la réalisation du projet :smile:</li>\n</ul>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"/snt/media/files/web/mindmap_projet_web.jpg\" data-is-external-image=\"true\"  alt=\"mindmap\" /></figure></p>\n",
+            "summary": "Projet: création d’un mini-site Web Le diaporama de présentation L’énoncé détaillé L’archive contenant l’application à installer (Publii) est disponible sur le Groupe Teams du cours de SNT Carte mentale pour vous aider dans la réalisation du projet: ",
+            "content_html": "<h2 id=\"projet-création-dun-mini-site-web\">Projet: création d’un mini-site Web</h2>\n<ul>\n<li>Le <a href=\"/snt/media/files/web/projet_site.html\">diaporama</a> de présentation</li>\n<li>L’<a href=\"/snt/media/files/web/projet_web.pdf\">énoncé</a> détaillé</li>\n<li>L’archive contenant l’application à installer (Publii) est disponible sur le <strong>Groupe Teams</strong> du cours de SNT</li>\n<li>Carte mentale pour vous aider dans la réalisation du projet:</li>\n</ul>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"/snt/media/files/web/mindmap_projet_web.jpg\" data-is-external-image=\"true\"  alt=\"mindmap\" /></figure></p>\n",
             "author": {
                 "name": "M. CASTELLINO"
             },
             "tags": [
             ],
             "date_published": "2021-08-24T18:43:09+02:00",
-            "date_modified": "2021-08-24T22:42:40+02:00"
+            "date_modified": "2021-08-27T18:23:04+02:00"
         },
         {
             "id": "https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html",
@@ -55,15 +55,15 @@
             "id": "https://mathsduchateau.github.io/snt/un-nouvel-article.html",
             "url": "https://mathsduchateau.github.io/snt/un-nouvel-article.html",
             "title": "Chapitres disponibles",
-            "summary": "Cliquez sur un chapitre pour accéder au contenu correspondant. Chapitre 0: Introduction Chapitre 1: La photographie numérique Chapitre 2: Les données structurées Chapitre 3: Internet Chapitre 4: Les réseaux sociaux Chapitre 5: Le Web Chapitre 6: Informatique embarquée Chapitre 7: La géolocalisation",
-            "content_html": "<p class=\"msg msg--highlight \">Cliquez sur un chapitre pour accéder au contenu correspondant.</p>\n<p><a href=\"https://mathsduchateau.github.io/snt/chapitre-0-introduction-2.html\">Chapitre 0: Introduction</a></p>\n<p>Chapitre 1: La photographie numérique</p>\n<p>Chapitre 2: Les données structurées</p>\n<p>Chapitre 3: Internet</p>\n<p><a href=\"https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html\">Chapitre 4: Les réseaux sociaux</a></p>\n<p><a href=\"https://mathsduchateau.github.io/snt/le-web.html\">Chapitre 5: Le Web</a></p>\n<p>Chapitre 6: Informatique embarquée</p>\n<p>Chapitre 7: La géolocalisation</p>",
+            "summary": "Cliquez sur un chapitre pour accéder au contenu correspondant. Chapitre 0: Introduction Chapitre 1: Les réseaux sociaux Chapitre 2: Internet Chapitre 3: Le Web Chapitre 4: Les données structurées et leur traitement Chapitre 5: La photographie numérique Chapitre 6: Les objets connectés Chapitre 7: Cartographie&hellip;",
+            "content_html": "<p class=\"msg msg--highlight \">Cliquez sur un chapitre pour accéder au contenu correspondant.</p>\n<p><a href=\"https://mathsduchateau.github.io/snt/chapitre-0-introduction-2.html\">Chapitre 0: Introduction</a></p>\n<p><a href=\"https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html\">Chapitre 1: Les réseaux sociaux</a></p>\n<p>Chapitre 2: Internet</p>\n<p><a href=\"https://mathsduchateau.github.io/snt/le-web.html\">Chapitre 3: Le Web</a></p>\n<p>Chapitre 4: Les données structurées et leur traitement</p>\n<p>Chapitre 5: La photographie numérique</p>\n<p>Chapitre 6: Les objets connectés</p>\n<p>Chapitre 7: Cartographie et mobilité</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>Chapitre 6: Informatique embarquée</p>\n<p>Chapitre 7: La géolocalisation</p>",
             "author": {
                 "name": "M. CASTELLINO"
             },
             "tags": [
             ],
             "date_published": "2021-07-16T20:12:38+02:00",
-            "date_modified": "2021-08-24T22:04:28+02:00"
+            "date_modified": "2021-08-27T18:21:26+02:00"
         }
     ]
 }

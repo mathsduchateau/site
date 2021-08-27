@@ -3,7 +3,7 @@
     <title>Ressources en SNT</title>
     <link href="https://mathsduchateau.github.io/snt/feed.xml" rel="self" />
     <link href="https://mathsduchateau.github.io/snt" />
-    <updated>2021-08-24T22:42:40+02:00</updated>
+    <updated>2021-08-27T18:23:04+02:00</updated>
     <author>
         <name>M. CASTELLINO</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://mathsduchateau.github.io/snt/le-web.html"/>
         <id>https://mathsduchateau.github.io/snt/le-web.html</id>
 
-        <updated>2021-08-24T22:42:40+02:00</updated>
+        <updated>2021-08-27T18:23:04+02:00</updated>
             <summary>
                 <![CDATA[
-                    Projet: création d’un mini-site Web Le diaporama de présentation L’énoncé détaillé L’archive contenant l’application à installer (Publii) est disponible sur le Groupe Teams du cours de SNT Carte mentale pour vous aider dans la réalisation du projet :smile: 
+                    Projet: création d’un mini-site Web Le diaporama de présentation L’énoncé détaillé L’archive contenant l’application à installer (Publii) est disponible sur le Groupe Teams du cours de SNT Carte mentale pour vous aider dans la réalisation du projet: 
                 ]]>
             </summary>
         <content type="html">
@@ -30,7 +30,7 @@
 <li>Le <a href="/snt/media/files/web/projet_site.html">diaporama</a> de présentation</li>
 <li>L’<a href="/snt/media/files/web/projet_web.pdf">énoncé</a> détaillé</li>
 <li>L’archive contenant l’application à installer (Publii) est disponible sur le <strong>Groupe Teams</strong> du cours de SNT</li>
-<li>Carte mentale pour vous aider dans la réalisation du projet :smile:</li>
+<li>Carte mentale pour vous aider dans la réalisation du projet:</li>
 </ul>
 <p><figure class="post__image"><img loading="lazy" src="/snt/media/files/web/mindmap_projet_web.jpg" data-is-external-image="true"  alt="mindmap" /></figure></p>
 
@@ -102,21 +102,27 @@
         <link href="https://mathsduchateau.github.io/snt/un-nouvel-article.html"/>
         <id>https://mathsduchateau.github.io/snt/un-nouvel-article.html</id>
 
-        <updated>2021-08-24T22:04:28+02:00</updated>
+        <updated>2021-08-27T18:21:26+02:00</updated>
             <summary>
                 <![CDATA[
-                    Cliquez sur un chapitre pour accéder au contenu correspondant. Chapitre 0: Introduction Chapitre 1: La photographie numérique Chapitre 2: Les données structurées Chapitre 3: Internet Chapitre 4: Les réseaux sociaux Chapitre 5: Le Web Chapitre 6: Informatique embarquée Chapitre 7: La géolocalisation
+                    Cliquez sur un chapitre pour accéder au contenu correspondant. Chapitre 0: Introduction Chapitre 1: Les réseaux sociaux Chapitre 2: Internet Chapitre 3: Le Web Chapitre 4: Les données structurées et leur traitement Chapitre 5: La photographie numérique Chapitre 6: Les objets connectés Chapitre 7: Cartographie&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p class="msg msg--highlight ">Cliquez sur un chapitre pour accéder au contenu correspondant.</p>
 <p><a href="https://mathsduchateau.github.io/snt/chapitre-0-introduction-2.html">Chapitre 0: Introduction</a></p>
-<p>Chapitre 1: La photographie numérique</p>
-<p>Chapitre 2: Les données structurées</p>
-<p>Chapitre 3: Internet</p>
-<p><a href="https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html">Chapitre 4: Les réseaux sociaux</a></p>
-<p><a href="https://mathsduchateau.github.io/snt/le-web.html">Chapitre 5: Le Web</a></p>
+<p><a href="https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html">Chapitre 1: Les réseaux sociaux</a></p>
+<p>Chapitre 2: Internet</p>
+<p><a href="https://mathsduchateau.github.io/snt/le-web.html">Chapitre 3: Le Web</a></p>
+<p>Chapitre 4: Les données structurées et leur traitement</p>
+<p>Chapitre 5: La photographie numérique</p>
+<p>Chapitre 6: Les objets connectés</p>
+<p>Chapitre 7: Cartographie et mobilité</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 <p>Chapitre 6: Informatique embarquée</p>
 <p>Chapitre 7: La géolocalisation</p>
             ]]>
