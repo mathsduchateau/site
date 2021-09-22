@@ -2,10 +2,10 @@
 <html lang="fr">
  <head>
   <meta http-equiv="x-ua-compatible" content="IE=EDGE">
-  <title>Solution d'exercice</title>
+  <title>Exercice d'auto-évaluation</title>
   <meta charset="UTF-8">
   <meta name="generator" content="SCENARI 5.0.20 / Opale 3.8.014">
-  <meta name="revision" content="2021-09-08 09:42">
+  <meta name="revision" content="2021-09-22 18:57">
   <link rel="start" href="module_Ch0_Introduction.html" title="Chapitre 0&nbsp;: Introduction">
   <meta name="author" content>
   <meta name="date" content>
@@ -13,7 +13,7 @@
   <link rel="stylesheet" type="text/css" href="../lib-md/w_scCodeMgr/scCodeMgr.css">
   <link rel="stylesheet" type="text/css" href="../lib-md/w_tePlayer/tePlayer.css">
   <script>
-/*0*/ var scServices = {id:"ktbbbtej"};
+/*0*/ var scServices = {id:"ktvvbk41"};
 /*1*/ window.scLoadParams = {destUri:"/co/module_Ch0_Introduction_33.html", pathToRoot:"../"};
 </script>
   <script src="../lib-sc/scCoLib.js"></script>
@@ -67,10 +67,10 @@ vttTranscriptMgr.init()
   <script>scDynUiMgr.subWindow.fOpt={OVERRIDE:true,IMBR:true,CLOSEBTNTI:'Fermer'};</script>
  </head>
  <body class="subWin eval">
-  <div id="root"><header id="header"><nav role="navigation"><ul id="accessibility"><li class="waiContent"><a href="#content"><span>contenu</span></a></li><li class="waiNav"><a href="#navigation"><span>navigation</span></a></li></ul></nav></header><main id="main" role="main"><div id="document"><div id="content" tabindex="-1"><div class="scroller"><hr class="hidden"><section class="hBk article result"><div class="hBk_co "><script>
-var jgOVQrQ42ffWmMPbXTXVre_Asol = {
+  <div id="root"><header id="header"><nav role="navigation"><ul id="accessibility"><li class="waiContent"><a href="#content"><span>contenu</span></a></li><li class="waiNav"><a href="#navigation"><span>navigation</span></a></li></ul></nav></header><main id="main" role="main"><div id="document"><div id="content" tabindex="-1"><div class="scroller"><hr class="hidden"><section class="hBk article eval"><div class="hBk_co "><script>
+var MOkzq4h33hkb8ihSvSIitd_Aeval = {
 
-	fId : "jgOVQrQ42ffWmMPbXTXVre",
+	fId : "MOkzq4h33hkb8ihSvSIitd",
 	fCurSeq : null,
 	initSeq : function(pCodeSeq){
 	try {
@@ -79,25 +79,60 @@ var jgOVQrQ42ffWmMPbXTXVre_Asol = {
 		this.fCurSeq = pCodeSeq;
 		switch(this.fCurSeq) {
 
-		case "" : {
-		var vForm = document.forms.jgOVQrQ42ffWmMPbXTXVre_Asol_form;
-		for (var i=0; i < vForm.jgOVQrQ42ffWmMPbXTXVre_Asol_input.length; i++) {
-			vForm.jgOVQrQ42ffWmMPbXTXVre_Asol_input[i].disabled = true;
-			vForm.jgOVQrQ42ffWmMPbXTXVre_Asol_input[i].checked = false;
+		case "init" : {
+		var vForm = document.forms.MOkzq4h33hkb8ihSvSIitd_Aeval_form;
+		for (var i=0; i < vForm.MOkzq4h33hkb8ihSvSIitd_Aeval_input.length; i++) {
+			vForm.MOkzq4h33hkb8ihSvSIitd_Aeval_input[i].disabled = false;
+			vForm.MOkzq4h33hkb8ihSvSIitd_Aeval_input[i].checked = false;
 		}
 
 var vLoadRespSession = "eval";
-for (var i=0; i < vForm.jgOVQrQ42ffWmMPbXTXVre_Asol_input.length; i++) {
-			var vInput = vForm.jgOVQrQ42ffWmMPbXTXVre_Asol_input[i];
+for (var i=0; i < vForm.MOkzq4h33hkb8ihSvSIitd_Aeval_input.length; i++) {
+			var vInput = vForm.MOkzq4h33hkb8ihSvSIitd_Aeval_input[i];
 			vInput.checked = scServices.assmntMgr.getResponse(this.fId, vLoadRespSession, vInput.value);
 		}
-var vLoadScoreSession = "eval";
-		this.fMinPts = scServices.assmntMgr.getMinPts(this.fId, vLoadScoreSession);
-		this.fScorePts = scServices.assmntMgr.getScorePts(this.fId, vLoadScoreSession);
-		this.fMaxPts = scServices.assmntMgr.getMaxPts(this.fId, vLoadScoreSession);
 
-		this.setSolution(true);
-scAssmntMgr.setMode(sc$("jgOVQrQ42ffWmMPbXTXVre_Asol_N_responseTi"), "visible");
+		this.setSolution(false);
+var vRespSession = "eval";
+		if(scServices.assmntMgr.getCompletionStatus(this.fId, vRespSession)=="notAttempt") scServices.assmntMgr.setCompletionStatus(this.fId, vRespSession, "attempt");
+		this.setResp = function(pInput, pIdx) {
+			scServices.assmntMgr.setResponse(this.fId, vRespSession, pIdx, pInput.checked);
+
+			this.computeScore();
+			scServices.assmntMgr.commit();
+		}				
+
+		this.computeScore = function() {
+
+			this.refreshScoresFeedbacks();
+		}
+
+if(vRespSession != vLoadRespSession) {
+for (var i=0; i < vForm.MOkzq4h33hkb8ihSvSIitd_Aeval_input.length; i++) {
+			var vInput = vForm.MOkzq4h33hkb8ihSvSIitd_Aeval_input[i];
+			scServices.assmntMgr.setResponse(this.fId, vRespSession, vInput.value, vInput.checked);
+		}
+}
+this.computeScore();
+
+		scServices.assmntMgr.commit();
+		break;
+	}
+
+		case "read" : {
+		var vForm = document.forms.MOkzq4h33hkb8ihSvSIitd_Aeval_form;
+		for (var i=0; i < vForm.MOkzq4h33hkb8ihSvSIitd_Aeval_input.length; i++) {
+			vForm.MOkzq4h33hkb8ihSvSIitd_Aeval_input[i].disabled = true;
+			vForm.MOkzq4h33hkb8ihSvSIitd_Aeval_input[i].checked = false;
+		}
+
+var vLoadRespSession = "eval";
+for (var i=0; i < vForm.MOkzq4h33hkb8ihSvSIitd_Aeval_input.length; i++) {
+			var vInput = vForm.MOkzq4h33hkb8ihSvSIitd_Aeval_input[i];
+			vInput.checked = scServices.assmntMgr.getResponse(this.fId, vLoadRespSession, vInput.value);
+		}
+
+		this.setSolution(false);
 this.setResp = function(pInput, pIdx) {
 
 			this.computeScore();
@@ -120,10 +155,15 @@ this.computeScore();
 	},
 
 	closeSeq: function(){
-		var vForm = document.forms.jgOVQrQ42ffWmMPbXTXVre_Asol_form;
+		var vForm = document.forms.MOkzq4h33hkb8ihSvSIitd_Aeval_form;
 		switch(this.fCurSeq) {
 
-	case "" : {
+	case "init" : {
+
+		break;
+	}
+
+	case "read" : {
 
 		break;
 	}
@@ -133,35 +173,18 @@ this.computeScore();
 	},
 	getOnLoadSeq:function() {
 
-	return "";
+	if(scServices.assmntMgr.getCompletionStatus(this.fId, "eval") != "complete" && true) return "init";
+	return "read";
 	},
 
 	refreshScoresFeedbacks : function(){
 		
 
-		var vScoreNode = sc$("jgOVQrQ42ffWmMPbXTXVre_Asol_SN41");
-
-		var vStep = 1;
-		var vScore = Math.round(this.fScorePts / vStep);
-		function scoreStr(pVal){
-			return new Number(pVal).toFixed(0);
-		}
-if(vScore <= 0 && true) {
-			vScoreNode.innerHTML = "Votre réponse est incorrecte."+"";
-			vScoreNode.className = "answWorst";
-		} else if(true) {
-			vScoreNode.innerHTML = "Votre réponse est juste."+"";
-			vScoreNode.className = "answBest";
-		} else  {
-			vScoreNode.innerHTML = "";
-			vScoreNode.className = "";
-		}
-
 	},
 	solIsShown : false,
 	setSolution : function(pShown){
 		var vTRs = null;
-		var vForm = document.forms.jgOVQrQ42ffWmMPbXTXVre_Asol_form;
+		var vForm = document.forms.MOkzq4h33hkb8ihSvSIitd_Aeval_form;
 		var vTable = scPaLib.findNode("chi:" ,vForm);
 		if (vTable.nodeName.toLowerCase()=="table") vTRs = scPaLib.findNodes("chi:/chi:tr" ,vTable);
 		else vTRs = scPaLib.findNodes("chi:" ,vTable);
@@ -172,36 +195,16 @@ if(vScore <= 0 && true) {
 				var vOffs = vTR.className.indexOf("assmntSol");
 				if(vOffs>=0) vTR.className = vTR.className.substring(0, vOffs) + vTR.className.substring(vOffs+14);
 
-				var vSol = vForm.jgOVQrQ42ffWmMPbXTXVre_Asol_sol[i];
-				scAssmntMgr.setMode(vSol.parentNode, "collapsed");
-				vSol.checked = false;
-				vForm.jgOVQrQ42ffWmMPbXTXVre_Asol_input[i].removeAttribute("aria-hidden");
-
 			}
 		} else if(pShown && ! this.solIsShown) {
 
 			var i = 0, vTR = null;
 
-			var vSol = vForm.jgOVQrQ42ffWmMPbXTXVre_Asol_sol[i];
-			scAssmntMgr.setMode(vSol.parentNode, "visible");
-			vSol.checked = false;
-			vForm.jgOVQrQ42ffWmMPbXTXVre_Asol_input[i].setAttribute("aria-hidden", "true");
-
-			vTR = vTRs[i++];
-			vTR.className = "assmntSolUnche " + vTR.className;
-
-			var vSol = vForm.jgOVQrQ42ffWmMPbXTXVre_Asol_sol[i];
-			scAssmntMgr.setMode(vSol.parentNode, "visible");
-			vSol.checked = true;
-			vForm.jgOVQrQ42ffWmMPbXTXVre_Asol_input[i].setAttribute("aria-hidden", "true");
-
 			vTR = vTRs[i++];
 			vTR.className = "assmntSolCheck " + vTR.className;
 
-			var vSol = vForm.jgOVQrQ42ffWmMPbXTXVre_Asol_sol[i];
-			scAssmntMgr.setMode(vSol.parentNode, "visible");
-			vSol.checked = true;
-			vForm.jgOVQrQ42ffWmMPbXTXVre_Asol_input[i].setAttribute("aria-hidden", "true");
+			vTR = vTRs[i++];
+			vTR.className = "assmntSolUnche " + vTR.className;
 
 			vTR = vTRs[i++];
 			vTR.className = "assmntSolCheck " + vTR.className;
@@ -211,7 +214,7 @@ if(vScore <= 0 && true) {
 	},
 	onLoad: function(){
 		this.initSeq(this.getOnLoadSeq()); 
-		var vNodeRoot = sc$("jgOVQrQ42ffWmMPbXTXVre_Asol_A");
+		var vNodeRoot = sc$("MOkzq4h33hkb8ihSvSIitd_Aeval_A");
 		vNodeRoot.style.display = "block"; 
 	},
 	onUnload: function(){
@@ -221,9 +224,9 @@ if(vScore <= 0 && true) {
 	unloadSortKey: "A"
 };
 
-scOnLoads[scOnLoads.length] = jgOVQrQ42ffWmMPbXTXVre_Asol;
-scOnUnloads[scOnUnloads.length] = jgOVQrQ42ffWmMPbXTXVre_Asol;
-</script><div id="jgOVQrQ42ffWmMPbXTXVre_Asol_A" style="display:none;"><div class="solBody"><div class="question"><h3 class="question_ti"><span>Énoncé</span></h3><div class="rBk "><p>Créer un site Web présentant le thème du logiciel libre. Pour créer les pages, utiliser un éditeur graphique à l'interface simple.</p></div></div><div class="score"><h3 class="score_ti"><span>Résultat</span></h3><div class="scoreEval " aria-live="polite"><div id="jgOVQrQ42ffWmMPbXTXVre_Asol_SN41"><span></span></div></div></div><div class="sol"><h3 class="sol_ti"><span>Correction</span></h3><div id="jgOVQrQ42ffWmMPbXTXVre_Asol_N_responseTi" class="response_ti"><span aria-hidden="true"><span>Votre choix</span></span><span><span>Choix attendu</span></span><span aria-hidden="true"><span>Réponse</span></span></div><form action name="jgOVQrQ42ffWmMPbXTXVre_Asol_form" id="jgOVQrQ42ffWmMPbXTXVre_Asol_form"><ul class="choiceList "><li class="choiceList_ch "><div class="choiceList_in "><input type="checkbox" name="jgOVQrQ42ffWmMPbXTXVre_Asol_input" id="jgOVQrQ42ffWmMPbXTXVre_Asol_in0" value="0" onclick="jgOVQrQ42ffWmMPbXTXVre_Asol.setResp(this, 0);" aria-labelledby="jgOVQrQ42ffWmMPbXTXVre_Asol_lbl0"></div><div class="choiceList_sol " style="display:none;"><input type="checkbox" name="jgOVQrQ42ffWmMPbXTXVre_Asol_sol" id="jgOVQrQ42ffWmMPbXTXVre_Asol_sol0" value disabled aria-labelledby="jgOVQrQ42ffWmMPbXTXVre_Asol_lbl0"></div><div class="choiceList_la " id="jgOVQrQ42ffWmMPbXTXVre_Asol_lbl0"><div class="choice"><div class="label"><p>Science</p></div></div></div></li><li class="choiceList_ch "><div class="choiceList_in "><input type="checkbox" name="jgOVQrQ42ffWmMPbXTXVre_Asol_input" id="jgOVQrQ42ffWmMPbXTXVre_Asol_in1" value="1" onclick="jgOVQrQ42ffWmMPbXTXVre_Asol.setResp(this, 1);" aria-labelledby="jgOVQrQ42ffWmMPbXTXVre_Asol_lbl1"></div><div class="choiceList_sol " style="display:none;"><input type="checkbox" name="jgOVQrQ42ffWmMPbXTXVre_Asol_sol" id="jgOVQrQ42ffWmMPbXTXVre_Asol_sol1" value disabled aria-labelledby="jgOVQrQ42ffWmMPbXTXVre_Asol_lbl1"></div><div class="choiceList_la " id="jgOVQrQ42ffWmMPbXTXVre_Asol_lbl1"><div class="choice"><div class="label"><p>Numérique</p></div></div></div></li><li class="choiceList_ch "><div class="choiceList_in "><input type="checkbox" name="jgOVQrQ42ffWmMPbXTXVre_Asol_input" id="jgOVQrQ42ffWmMPbXTXVre_Asol_in2" value="2" onclick="jgOVQrQ42ffWmMPbXTXVre_Asol.setResp(this, 2);" aria-labelledby="jgOVQrQ42ffWmMPbXTXVre_Asol_lbl2"></div><div class="choiceList_sol " style="display:none;"><input type="checkbox" name="jgOVQrQ42ffWmMPbXTXVre_Asol_sol" id="jgOVQrQ42ffWmMPbXTXVre_Asol_sol2" value disabled aria-labelledby="jgOVQrQ42ffWmMPbXTXVre_Asol_lbl2"></div><div class="choiceList_la " id="jgOVQrQ42ffWmMPbXTXVre_Asol_lbl2"><div class="choice"><div class="label"><p>Technologie</p></div></div></div></li></ul></form></div></div></div></div></section></div></div><div id="navigation" tabindex="-1"><hr class="hidden"><span class="evalCounter"><span class="seen">1</span><span class="over">/</span><span class="total">7</span></span><nav class="pageTurner" role="navigation"><ul><li><a rel="prev" target="_self" href="module_Ch0_Introduction_29.html" class="btnNav prevEval" title="Pr&eacute;c&eacute;dent (R&eacute;sultats du test)"><span>Précédent</span></a></li><li><a rel="next" target="_self" href="module_Ch0_Introduction_37.html" class="btnNav nextEval" title="Suivant (Solution d'exercice)"><span>Suivant</span></a></li></ul></nav></div></div></main></div>
+scOnLoads[scOnLoads.length] = MOkzq4h33hkb8ihSvSIitd_Aeval;
+scOnUnloads[scOnUnloads.length] = MOkzq4h33hkb8ihSvSIitd_Aeval;
+</script><div id="MOkzq4h33hkb8ihSvSIitd_Aeval_A" style="display:none;"><div class="evalBody"><div class="question"><div class="rBk "><p>Ecrire un programme en Python permettant de répondre à un problème donné à l'aide d'un algorithme.</p></div></div><div class="response" aria-live="polite"><form action name="MOkzq4h33hkb8ihSvSIitd_Aeval_form" id="MOkzq4h33hkb8ihSvSIitd_Aeval_form"><ul class="choiceList "><li class="choiceList_ch "><div class="choiceList_in "><input type="checkbox" name="MOkzq4h33hkb8ihSvSIitd_Aeval_input" id="MOkzq4h33hkb8ihSvSIitd_Aeval_in0" value="0" onclick="MOkzq4h33hkb8ihSvSIitd_Aeval.setResp(this, 0);" aria-labelledby="MOkzq4h33hkb8ihSvSIitd_Aeval_lbl0"></div><div class="choiceList_la " id="MOkzq4h33hkb8ihSvSIitd_Aeval_lbl0"><div class="choice"><div class="label"><p>Science</p></div></div></div></li><li class="choiceList_ch "><div class="choiceList_in "><input type="checkbox" name="MOkzq4h33hkb8ihSvSIitd_Aeval_input" id="MOkzq4h33hkb8ihSvSIitd_Aeval_in1" value="1" onclick="MOkzq4h33hkb8ihSvSIitd_Aeval.setResp(this, 1);" aria-labelledby="MOkzq4h33hkb8ihSvSIitd_Aeval_lbl1"></div><div class="choiceList_la " id="MOkzq4h33hkb8ihSvSIitd_Aeval_lbl1"><div class="choice"><div class="label"><p>Numérique</p></div></div></div></li><li class="choiceList_ch "><div class="choiceList_in "><input type="checkbox" name="MOkzq4h33hkb8ihSvSIitd_Aeval_input" id="MOkzq4h33hkb8ihSvSIitd_Aeval_in2" value="2" onclick="MOkzq4h33hkb8ihSvSIitd_Aeval.setResp(this, 2);" aria-labelledby="MOkzq4h33hkb8ihSvSIitd_Aeval_lbl2"></div><div class="choiceList_la " id="MOkzq4h33hkb8ihSvSIitd_Aeval_lbl2"><div class="choice"><div class="label"><p>Technologie</p></div></div></div></li></ul></form></div></div></div></div></section></div></div><div id="navigation" tabindex="-1"><hr class="hidden"><span class="evalCounter"><span class="seen">2</span><span class="over">/</span><span class="total">7</span></span><nav class="pageTurner" role="navigation"><ul><li><a rel="prev" target="_self" href="module_Ch0_Introduction_29.html" class="btnNav prevEval" title="Pr&eacute;c&eacute;dent (Exercice d'auto-&eacute;valuation)"><span>Précédent</span></a></li><li><a rel="next" target="_self" href="module_Ch0_Introduction_37.html" class="btnNav nextEval" title="Suivant (Exercice d'auto-&eacute;valuation)"><span>Suivant</span></a></li></ul></nav></div></div></main></div>
   <script src="../skin/js/skin.js"></script>
   <script type="text/javascript">tplMgr.init();scCodeMgr.init();scImageMgr.init();</script>
  </body>
