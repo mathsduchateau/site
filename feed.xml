@@ -3,7 +3,7 @@
     <title>Ressources en SNT</title>
     <link href="https://mathsduchateau.github.io/snt/feed.xml" rel="self" />
     <link href="https://mathsduchateau.github.io/snt" />
-    <updated>2021-09-30T12:59:59+02:00</updated>
+    <updated>2021-10-07T09:33:49+02:00</updated>
     <author>
         <name>M. CASTELLINO</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html"/>
         <id>https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html</id>
 
-        <updated>2021-09-30T12:52:15+02:00</updated>
+        <updated>2021-10-07T09:33:49+02:00</updated>
             <summary>
                 <![CDATA[
-                     Mini-projet: panorama des réseaux sociaux. Diaporama de présentation Tableau d’attribution des rôles Bilan à compléter Activité: modéliser un réseau social par un graphe 
+                     Mini-projet: panorama des réseaux sociaux. Diaporama de présentation Tableau d’attribution des rôles Fiche de cadrage pour les élèves réalisant une carte d’identité Fiche de cadrage pour les élèves préparant un débat Bilan à compléter Activité: modéliser un réseau social par un graphe 
                 ]]>
             </summary>
         <content type="html">
@@ -30,6 +30,8 @@
 </ul>
 <p><a href="/snt/media/files/rs/projet_rs.html">Diaporama</a> de présentation</p>
 <p><a href="/snt/media/files/rs/groupes_rs.pdf">Tableau</a> d’attribution des rôles</p>
+<p><a href="/snt/media.files/rs/fiche_investigateur.pdf">Fiche de cadrage</a> pour les élèves réalisant une carte d’identité</p>
+<p><a href="/snt/media/files/rs/fiche_debatteur.pdf">Fiche de cadrage</a> pour les élèves préparant un débat</p>
 <ul>
 <li><a href="/snt/media/files/rs/bilan_a_compl.pdf">Bilan</a> à compléter</li>
 <li><a href="/snt/media/files/rs/act_graphe_enonce.pdf">Activité</a>: modéliser un réseau social par un graphe</li>
