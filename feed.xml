@@ -3,7 +3,7 @@
     <title>Ressources en SNT</title>
     <link href="https://mathsduchateau.github.io/snt/feed.xml" rel="self" />
     <link href="https://mathsduchateau.github.io/snt" />
-    <updated>2021-10-07T09:37:46+02:00</updated>
+    <updated>2021-10-19T21:01:41+02:00</updated>
     <author>
         <name>M. CASTELLINO</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html"/>
         <id>https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html</id>
 
-        <updated>2021-10-07T09:37:46+02:00</updated>
+        <updated>2021-10-19T21:01:41+02:00</updated>
             <summary>
                 <![CDATA[
-                     Mini-projet: panorama des réseaux sociaux. Diaporama de présentation Tableau d’attribution des rôles Fiche de cadrage pour les élèves réalisant une carte d’identité Fiche de cadrage pour les élèves préparant un débat Bilan à compléter Activité: modéliser un réseau social par un graphe 
+                     Mini-projet: panorama des réseaux sociaux. Diaporama de présentation Tableau d’attribution des rôles Fiche de cadrage pour les élèves réalisant une carte d’identité Fiche de cadrage pour les élèves préparant un débat Devoir maison n°1: les réseaux sociaux dans la ville d’Issy Tableau de constitution&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -31,6 +31,13 @@
 <li><a href="/snt/media/files/rs/groupes_rs.pdf">Tableau</a> d’attribution des rôles</li>
 <li><a href="/snt/media/files/rs/fiche_investigateur.pdf">Fiche de cadrage</a> pour les élèves réalisant une carte d’identité</li>
 <li><a href="/snt/media/files/rs/fiche_debatteur.pdf">Fiche de cadrage</a> pour les élèves préparant un débat</li>
+</ul>
+</li>
+<li><strong>Devoir maison n°1: les réseaux sociaux dans la ville d’Issy</strong><ul>
+<li><a href="/snt/media/files/rs/groupes_dm1.pdf">Tableau</a> de constitution des binômes</li>
+<li><a href="/snt/media/files/rs/dm1.pdf">Sujet</a> descriptif de la production à réaliser</li>
+<li><a href="/snt/media/files/rs/sociaux_issy.xlsx">Fichier au format Excel</a> contenant les données</li>
+<li><a href="/snt/media/files/rs/sociaux_issy.ods">Fichier au format Calc</a> contenant les données</li>
 </ul>
 </li>
 <li><a href="/snt/media/files/rs/bilan_a_compl.pdf">Bilan</a> à compléter</li>
