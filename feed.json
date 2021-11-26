@@ -56,14 +56,14 @@
             "url": "https://mathsduchateau.github.io/snt/un-nouvel-article.html",
             "title": "Chapitres disponibles",
             "summary": "Cliquez sur un chapitre pour accéder au contenu correspondant. Chapitre 0: Introduction Chapitre 1: Les réseaux sociaux Chapitre 2: Internet Chapitre 3: Le Web Chapitre 4: Les données structurées et leur traitement Chapitre 5: La photographie numérique Chapitre 6: Les objets connectés Chapitre 7: Cartographie&hellip;",
-            "content_html": "<p class=\"msg msg--highlight \">Cliquez sur un chapitre pour accéder au contenu correspondant.</p>\n<p><a href=\"https://mathsduchateau.github.io/snt/chapitre-0-introduction-2.html\">Chapitre 0: Introduction</a></p>\n<p><a href=\"https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html\">Chapitre 1: Les réseaux sociaux</a></p>\n<p>Chapitre 2: Internet</p>\n<p>Chapitre 3: Le Web</p>\n<p>Chapitre 4: Les données structurées et leur traitement</p>\n<p>Chapitre 5: La photographie numérique</p>\n<p>Chapitre 6: Les objets connectés</p>\n<p>Chapitre 7: Cartographie et mobilité</p>",
+            "content_html": "<p class=\"msg msg--highlight \">Cliquez sur un chapitre pour accéder au contenu correspondant.</p>\n<p><a href=\"https://mathsduchateau.github.io/snt/chapitre-0-introduction-2.html\">Chapitre 0: Introduction</a></p>\n<p><a href=\"https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html\">Chapitre 1: Les réseaux sociaux</a></p>\n<p><a href=\"https://mathsduchateau.github.io/snt/internet.html\">Chapitre 2: Internet</a></p>\n<p>Chapitre 3: Le Web</p>\n<p>Chapitre 4: Les données structurées et leur traitement</p>\n<p>Chapitre 5: La photographie numérique</p>\n<p>Chapitre 6: Les objets connectés</p>\n<p>Chapitre 7: Cartographie et mobilité</p>",
             "author": {
                 "name": "M. CASTELLINO"
             },
             "tags": [
             ],
             "date_published": "2021-07-16T20:12:38+02:00",
-            "date_modified": "2021-09-30T12:59:59+02:00"
+            "date_modified": "2021-11-26T16:11:03+01:00"
         }
     ]
 }
