@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://mathsduchateau.github.io/snt/internet.html",
+            "url": "https://mathsduchateau.github.io/snt/internet.html",
+            "title": "Internet",
+            "summary": " Le bilan à compléter L’énoncé des exercices L’énoncé des travaux pratiques ",
+            "content_html": "<ul>\n<li>Le <a href=\"/snt/media/files/internet/bilan_a_compl.pdf\">bilan</a> à compléter</li>\n<li>L’énoncé des <a href=\"/snt/media/files/internet/ex.pdf\">exercices</a></li>\n<li>L’énoncé des <a href=\"/snt/media/files/internet/TP_simulation_enonce.pdf\">travaux pratiques</a></li>\n</ul>\n",
+            "author": {
+                "name": "M. CASTELLINO"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-26T16:08:04+01:00",
+            "date_modified": "2021-11-26T16:10:19+01:00"
+        },
+        {
             "id": "https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html",
             "url": "https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html",
             "title": "Les réseaux sociaux",
