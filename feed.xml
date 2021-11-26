@@ -3,7 +3,7 @@
     <title>Ressources en SNT</title>
     <link href="https://mathsduchateau.github.io/snt/feed.xml" rel="self" />
     <link href="https://mathsduchateau.github.io/snt" />
-    <updated>2021-11-26T16:11:03+01:00</updated>
+    <updated>2021-11-26T16:12:35+01:00</updated>
     <author>
         <name>M. CASTELLINO</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://mathsduchateau.github.io/snt/internet.html"/>
         <id>https://mathsduchateau.github.io/snt/internet.html</id>
 
-        <updated>2021-11-26T16:10:19+01:00</updated>
+        <updated>2021-11-26T16:12:35+01:00</updated>
             <summary>
                 <![CDATA[
                      Le bilan à compléter L’énoncé des exercices L’énoncé des travaux pratiques 
@@ -27,7 +27,7 @@
             <![CDATA[
                 <ul>
 <li>Le <a href="/snt/media/files/internet/bilan_a_compl.pdf">bilan</a> à compléter</li>
-<li>L’énoncé des <a href="/snt/media/files/internet/ex.pdf">exercices</a></li>
+<li>L’énoncé des <a href="/snt/media/files/internet/ex_enonce.pdf">exercices</a></li>
 <li>L’énoncé des <a href="/snt/media/files/internet/TP_simulation_enonce.pdf">travaux pratiques</a></li>
 </ul>
 
