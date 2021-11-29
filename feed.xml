@@ -3,7 +3,7 @@
     <title>Ressources en SNT</title>
     <link href="https://mathsduchateau.github.io/snt/feed.xml" rel="self" />
     <link href="https://mathsduchateau.github.io/snt" />
-    <updated>2021-11-29T10:03:22+01:00</updated>
+    <updated>2021-11-29T10:04:56+01:00</updated>
     <author>
         <name>M. CASTELLINO</name>
     </author>
@@ -17,15 +17,15 @@
         <link href="https://mathsduchateau.github.io/snt/tp-en-mathematiques.html"/>
         <id>https://mathsduchateau.github.io/snt/tp-en-mathematiques.html</id>
 
-        <updated>2021-11-29T10:02:51+01:00</updated>
+        <updated>2021-11-29T10:04:56+01:00</updated>
             <summary>
                 <![CDATA[
-                    Les 
+                    Les TP1 et TP2 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Les <figure class="post__image"><img loading="lazy" src="/snt/media/files/maths/tp1.pdf" data-is-external-image="true"  alt="TP1 et TP2" /></figure></p>
+                <p>Les <a href="/snt/media/files/maths/tp1.pdf">TP1 et TP2</a></p>
 
             ]]>
         </content>
