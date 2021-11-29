@@ -3,12 +3,33 @@
     <title>Ressources en SNT</title>
     <link href="https://mathsduchateau.github.io/snt/feed.xml" rel="self" />
     <link href="https://mathsduchateau.github.io/snt" />
-    <updated>2021-11-26T16:15:14+01:00</updated>
+    <updated>2021-11-29T10:03:22+01:00</updated>
     <author>
         <name>M. CASTELLINO</name>
     </author>
     <id>https://mathsduchateau.github.io/snt</id>
 
+    <entry>
+        <title>TP en mathématiques</title>
+        <author>
+            <name>M. CASTELLINO</name>
+        </author>
+        <link href="https://mathsduchateau.github.io/snt/tp-en-mathematiques.html"/>
+        <id>https://mathsduchateau.github.io/snt/tp-en-mathematiques.html</id>
+
+        <updated>2021-11-29T10:02:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Les 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Les <figure class="post__image"><img loading="lazy" src="/snt/media/files/maths/tp1.pdf" data-is-external-image="true"  alt="TP1 et TP2" /></figure></p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Internet</title>
         <author>
@@ -111,7 +132,7 @@
         <link href="https://mathsduchateau.github.io/snt/un-nouvel-article.html"/>
         <id>https://mathsduchateau.github.io/snt/un-nouvel-article.html</id>
 
-        <updated>2021-11-26T16:11:03+01:00</updated>
+        <updated>2021-11-29T10:03:22+01:00</updated>
             <summary>
                 <![CDATA[
                     Cliquez sur un chapitre pour accéder au contenu correspondant. Chapitre 0: Introduction Chapitre 1: Les réseaux sociaux Chapitre 2: Internet Chapitre 3: Le Web Chapitre 4: Les données structurées et leur traitement Chapitre 5: La photographie numérique Chapitre 6: Les objets connectés Chapitre 7: Cartographie&hellip;
@@ -128,6 +149,8 @@
 <p>Chapitre 5: La photographie numérique</p>
 <p>Chapitre 6: Les objets connectés</p>
 <p>Chapitre 7: Cartographie et mobilité</p>
+<p class="msg msg--highlight ">TP en mathématiques</p>
+<p>Page des <a href="https://mathsduchateau.github.io/snt/tp-en-mathematiques.html">TP en mathématiques</a></p>
             ]]>
         </content>
     </entry>
