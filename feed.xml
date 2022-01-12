@@ -3,12 +3,45 @@
     <title>Ressources en SNT</title>
     <link href="https://mathsduchateau.github.io/snt/feed.xml" rel="self" />
     <link href="https://mathsduchateau.github.io/snt" />
-    <updated>2021-12-02T09:24:05+01:00</updated>
+    <updated>2022-01-12T19:03:49+01:00</updated>
     <author>
         <name>M. CASTELLINO</name>
     </author>
     <id>https://mathsduchateau.github.io/snt</id>
 
+    <entry>
+        <title>Les données structurées</title>
+        <author>
+            <name>M. CASTELLINO</name>
+        </author>
+        <link href="https://mathsduchateau.github.io/snt/les-donnees-structurees.html"/>
+        <id>https://mathsduchateau.github.io/snt/les-donnees-structurees.html</id>
+
+        <updated>2022-01-12T19:03:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                     L’activité sur les formats de fichier et la carte mentale de révision Le bilan à compléter TP traitement de données avec un tableur: - L&#39;[énoncé](/snt/media/files/donnees/tp_tableur_enonce.pdf) - Le fichier [Liste_cinemas_France_2011.xls](/snt/media/files/donnees/Liste_cinemas_France_2011.xls) - Le fichier [Liste_cinemas_Var_2011.xls](/snt/media/files/donnees/Liste_cinemas_Var_2011.xls) TP traitement de données avec un SGBD: - L&#39;[énoncé](/snt/media/files/donnees/tp_bdd_enonce.pdf) - La&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>L’<a href="/snt/media/files/donnees/act_formats.pdf">activité</a> sur les formats de fichier et la <a href="/snt/media/files/donnees/formats_fichiers_new.png">carte mentale</a> de révision</li>
+<li>Le <a href="/snt/media/files/donnees/bilan_a_compl.pdf">bilan</a> à compléter</li>
+<li>TP traitement de données avec un tableur:<pre><code>  - L&#39;[énoncé](/snt/media/files/donnees/tp_tableur_enonce.pdf)
+      - Le fichier [Liste_cinemas_France_2011.xls](/snt/media/files/donnees/Liste_cinemas_France_2011.xls)
+      - Le fichier [Liste_cinemas_Var_2011.xls](/snt/media/files/donnees/Liste_cinemas_Var_2011.xls)
+</code></pre>
+</li>
+<li>TP traitement de données avec un SGBD:<pre><code>  - L&#39;[énoncé](/snt/media/files/donnees/tp_bdd_enonce.pdf)
+  - La base de données [prenoms_paris.db](/snt/media/files/donnees/prenoms_paris.db)
+</code></pre>
+</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>TP en mathématiques</title>
         <author>
@@ -134,10 +167,10 @@
         <link href="https://mathsduchateau.github.io/snt/un-nouvel-article.html"/>
         <id>https://mathsduchateau.github.io/snt/un-nouvel-article.html</id>
 
-        <updated>2021-11-29T10:03:22+01:00</updated>
+        <updated>2022-01-12T19:03:49+01:00</updated>
             <summary>
                 <![CDATA[
-                    Cliquez sur un chapitre pour accéder au contenu correspondant. Chapitre 0: Introduction Chapitre 1: Les réseaux sociaux Chapitre 2: Internet Chapitre 3: Le Web Chapitre 4: Les données structurées et leur traitement Chapitre 5: La photographie numérique Chapitre 6: Les objets connectés Chapitre 7: Cartographie&hellip;
+                    Cliquez sur un chapitre pour accéder au contenu correspondant. Chapitre 0: Introduction Chapitre 1: Les réseaux sociaux Chapitre 2: Internet Chapitre 3: Les données structurées Chapitre 4: Le Web Chapitre 5: La photographie numérique Chapitre 6: Les objets connectés Chapitre 7: Cartographie et mobilité TP&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -146,8 +179,8 @@
 <p><a href="https://mathsduchateau.github.io/snt/chapitre-0-introduction-2.html">Chapitre 0: Introduction</a></p>
 <p><a href="https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html">Chapitre 1: Les réseaux sociaux</a></p>
 <p><a href="https://mathsduchateau.github.io/snt/internet.html">Chapitre 2: Internet</a></p>
-<p>Chapitre 3: Le Web</p>
-<p>Chapitre 4: Les données structurées et leur traitement</p>
+<p><a href="https://mathsduchateau.github.io/snt/les-donnees-structurees.html" rel="nofollow">Chapitre 3: Les données structurées</a></p>
+<p>Chapitre 4: Le Web</p>
 <p>Chapitre 5: La photographie numérique</p>
 <p>Chapitre 6: Les objets connectés</p>
 <p>Chapitre 7: Cartographie et mobilité</p>
