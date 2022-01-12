@@ -13,15 +13,15 @@
             "id": "https://mathsduchateau.github.io/snt/les-donnees-structurees.html",
             "url": "https://mathsduchateau.github.io/snt/les-donnees-structurees.html",
             "title": "Les données structurées",
-            "summary": " L’activité sur les formats de fichier et la carte mentale de révision Le bilan à compléter TP traitement de données avec un tableur: - L&#39;[énoncé](/snt/media/files/donnees/tp_tableur_enonce.pdf) - Le fichier [Liste_cinemas_France_2011.xls](/snt/media/files/donnees/Liste_cinemas_France_2011.xls) - Le fichier [Liste_cinemas_Var_2011.xls](/snt/media/files/donnees/Liste_cinemas_Var_2011.xls) TP traitement de données avec un SGBD: - L&#39;[énoncé](/snt/media/files/donnees/tp_bdd_enonce.pdf) - La&hellip;",
-            "content_html": "<ul>\n<li>L’<a href=\"/snt/media/files/donnees/act_formats.pdf\">activité</a> sur les formats de fichier et la <a href=\"/snt/media/files/donnees/formats_fichiers_new.png\">carte mentale</a> de révision</li>\n<li>Le <a href=\"/snt/media/files/donnees/bilan_a_compl.pdf\">bilan</a> à compléter</li>\n<li>TP traitement de données avec un tableur:<pre><code>  - L&#39;[énoncé](/snt/media/files/donnees/tp_tableur_enonce.pdf)\n      - Le fichier [Liste_cinemas_France_2011.xls](/snt/media/files/donnees/Liste_cinemas_France_2011.xls)\n      - Le fichier [Liste_cinemas_Var_2011.xls](/snt/media/files/donnees/Liste_cinemas_Var_2011.xls)\n</code></pre>\n</li>\n<li>TP traitement de données avec un SGBD:<pre><code>  - L&#39;[énoncé](/snt/media/files/donnees/tp_bdd_enonce.pdf)\n  - La base de données [prenoms_paris.db](/snt/media/files/donnees/prenoms_paris.db)\n</code></pre>\n</li>\n</ul>\n",
+            "summary": " L’activité sur les formats de fichier et la carte mentale de révision Le bilan à compléter TP traitement de données avec un tableur: L’énoncé Le fichier Liste_cinemas_France_2011.xls Le fichier Liste_cinemas_Var_2011.xls TP traitement de données avec un SGBD: L’énoncé La base de données prenoms_paris.db ",
+            "content_html": "<ul>\n<li>L’<a href=\"/snt/media/files/donnees/act_formats.pdf\">activité</a> sur les formats de fichier et la <a href=\"/snt/media/files/donnees/formats_fichiers_new.png\">carte mentale</a> de révision</li>\n<li>Le <a href=\"/snt/media/files/donnees/bilan_a_compl.pdf\">bilan</a> à compléter</li>\n<li>TP traitement de données avec un tableur:<ul>\n<li>L’<a href=\"/snt/media/files/donnees/tp_tableur_enonce.pdf\">énoncé</a></li>\n<li>Le fichier <a href=\"/snt/media/files/donnees/Liste_cinemas_France_2011.xls\">Liste_cinemas_France_2011.xls</a></li>\n<li>Le fichier <a href=\"/snt/media/files/donnees/Liste_cinemas_Var_2011.xls\">Liste_cinemas_Var_2011.xls</a></li>\n</ul>\n</li>\n<li>TP traitement de données avec un SGBD:<ul>\n<li>L’<a href=\"/snt/media/files/donnees/tp_bdd_enonce.pdf\">énoncé</a></li>\n<li>La base de données <a href=\"/snt/media/files/donnees/prenoms_paris.db\">prenoms_paris.db</a></li>\n</ul>\n</li>\n</ul>\n",
             "author": {
                 "name": "M. CASTELLINO"
             },
             "tags": [
             ],
             "date_published": "2022-01-12T19:03:19+01:00",
-            "date_modified": "2022-01-12T19:03:19+01:00"
+            "date_modified": "2022-01-12T19:08:47+01:00"
         },
         {
             "id": "https://mathsduchateau.github.io/snt/tp-en-mathematiques.html",
@@ -63,7 +63,7 @@
             "tags": [
             ],
             "date_published": "2021-08-24T18:41:29+02:00",
-            "date_modified": "2021-12-02T09:24:05+01:00"
+            "date_modified": "2022-01-12T19:08:17+01:00"
         },
         {
             "id": "https://mathsduchateau.github.io/snt/chapitre-0-introduction-2.html",
