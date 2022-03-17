@@ -52,6 +52,20 @@
             "date_modified": "2021-11-29T10:06:09+01:00"
         },
         {
+            "id": "https://mathsduchateau.github.io/snt/le-web.html",
+            "url": "https://mathsduchateau.github.io/snt/le-web.html",
+            "title": "Le Web",
+            "summary": " Le bilan à compléter L’énoncé des exercices ",
+            "content_html": "<ul>\n<li>Le <a href=\"/snt/media/files/web/bilan_a_compl.pdf\">bilan</a> à compléter</li>\n<li>L’énoncé des <a href=\"/snt/media/files/web/ex_enonce.pdf\">exercices</a></li>\n</ul>\n",
+            "author": {
+                "name": "M. CASTELLINO"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-24T18:43:09+02:00",
+            "date_modified": "2022-03-17T11:31:36+01:00"
+        },
+        {
             "id": "https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html",
             "url": "https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html",
             "title": "Les réseaux sociaux",
@@ -84,14 +98,14 @@
             "url": "https://mathsduchateau.github.io/snt/un-nouvel-article.html",
             "title": "Chapitres disponibles",
             "summary": "DM pour le 3 mars 2022: énoncé Cliquez sur un chapitre pour accéder au contenu correspondant. Chapitre 0: Introduction Chapitre 1: Les réseaux sociaux Chapitre 2: Internet Chapitre 3: Les données structurées Chapitre 4: Le Web Chapitre 5: La photographie numérique Chapitre 6: Les objets&hellip;",
-            "content_html": "<p>DM pour le 3 mars 2022: <a href=\"https://mathsduchateau.github.io/snt/media/files/dm2_enonce.pdf\" rel=\"nofollow\">énoncé</a></p>\n<p>Cliquez sur un chapitre pour accéder au contenu correspondant.</p>\n<p><a href=\"https://mathsduchateau.github.io/snt/chapitre-0-introduction-2.html\">Chapitre 0: Introduction</a></p>\n<p><a href=\"https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html\">Chapitre 1: Les réseaux sociaux</a></p>\n<p><a href=\"https://mathsduchateau.github.io/snt/internet.html\">Chapitre 2: Internet</a></p>\n<p><a href=\"https://mathsduchateau.github.io/snt/les-donnees-structurees.html\" rel=\"nofollow\">Chapitre 3: Les données structurées</a></p>\n<p>Chapitre 4: Le Web</p>\n<p>Chapitre 5: La photographie numérique</p>\n<p>Chapitre 6: Les objets connectés</p>\n<p>Chapitre 7: Cartographie et mobilité</p>\n<p class=\"msg msg--highlight \">TP en mathématiques</p>\n<p>Page des <a href=\"https://mathsduchateau.github.io/snt/tp-en-mathematiques.html\">TP en mathématiques</a></p>",
+            "content_html": "<p>DM pour le 3 mars 2022: <a href=\"https://mathsduchateau.github.io/snt/media/files/dm2_enonce.pdf\" rel=\"nofollow\">énoncé</a></p>\n<p>Cliquez sur un chapitre pour accéder au contenu correspondant.</p>\n<p><a href=\"https://mathsduchateau.github.io/snt/chapitre-0-introduction-2.html\">Chapitre 0: Introduction</a></p>\n<p><a href=\"https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html\">Chapitre 1: Les réseaux sociaux</a></p>\n<p><a href=\"https://mathsduchateau.github.io/snt/internet.html\">Chapitre 2: Internet</a></p>\n<p><a href=\"https://mathsduchateau.github.io/snt/les-donnees-structurees.html\" rel=\"nofollow\">Chapitre 3: Les données structurées</a></p>\n<p><a href=\"https://mathsduchateau.github.io/snt/le-web.html\">Chapitre 4: Le Web</a></p>\n<p>Chapitre 5: La photographie numérique</p>\n<p>Chapitre 6: Les objets connectés</p>\n<p>Chapitre 7: Cartographie et mobilité</p>\n<p class=\"msg msg--highlight \">TP en mathématiques</p>\n<p>Page des <a href=\"https://mathsduchateau.github.io/snt/tp-en-mathematiques.html\">TP en mathématiques</a></p>",
             "author": {
                 "name": "M. CASTELLINO"
             },
             "tags": [
             ],
             "date_published": "2021-07-16T20:12:38+02:00",
-            "date_modified": "2022-02-02T21:41:59+01:00"
+            "date_modified": "2022-03-17T11:31:56+01:00"
         }
     ]
 }
