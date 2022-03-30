@@ -3,7 +3,7 @@
     <title>Ressources en SNT</title>
     <link href="https://mathsduchateau.github.io/snt/feed.xml" rel="self" />
     <link href="https://mathsduchateau.github.io/snt" />
-    <updated>2022-03-17T11:33:10+01:00</updated>
+    <updated>2022-03-30T10:17:42+02:00</updated>
     <author>
         <name>M. CASTELLINO</name>
     </author>
@@ -98,17 +98,32 @@
         <link href="https://mathsduchateau.github.io/snt/le-web.html"/>
         <id>https://mathsduchateau.github.io/snt/le-web.html</id>
 
-        <updated>2022-03-17T11:31:36+01:00</updated>
+        <updated>2022-03-30T10:17:42+02:00</updated>
             <summary>
                 <![CDATA[
-                     Le bilan à compléter L’énoncé des exercices 
+                     Projet “création d’un mini site Web” L’énoncé Le logiciel Publii à télécharger et installer. Les principales procédures montrées en vidéo: https://www.youtube.com/watch?v=Aeg9GAwXtxc Pour les personnes qui choisissent de coder en HTML/CSS, les fichiers de départ Pour les personnes travaillant sur le Sujet 4 (l’image numérique):&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <ul>
-<li>Le <a href="/snt/media/files/web/bilan_a_compl.pdf">bilan</a> à compléter</li>
-<li>L’énoncé des <a href="/snt/media/files/web/ex_enonce.pdf">exercices</a></li>
+<li><p><strong>Projet “création d’un mini site Web”</strong></p>
+<ul>
+<li><p>L’<a href="/snt/media/files/web/projet_web_v3.pdf">énoncé</a></p>
+</li>
+<li><p>Le <a href="https://www.swisstransfer.com/d/d6958331-607f-481c-af36-17c544661b4d">logiciel Publii</a> à télécharger et installer.</p>
+<p>  Les principales procédures montrées en vidéo: <a href="https://www.youtube.com/watch?v=Aeg9GAwXtxc">https://www.youtube.com/watch?v=Aeg9GAwXtxc</a></p>
+</li>
+<li><p>Pour les personnes qui choisissent de coder en HTML/CSS, les <a href="/snt/media/files/web/html_depart.zip">fichiers de départ</a></p>
+</li>
+<li><p>Pour les personnes travaillant sur le Sujet 4 (l’image numérique): fichier <a href="/snt/media/files/web/dessin_depart.py">dessin_depart.py</a></p>
+</li>
+</ul>
+</li>
+<li><p>Le <a href="/snt/media/files/web/bilan_a_compl.pdf">bilan</a> à compléter</p>
+</li>
+<li><p>L’énoncé des <a href="/snt/media/files/web/ex_enonce.pdf">exercices</a></p>
+</li>
 </ul>
 
             ]]>
