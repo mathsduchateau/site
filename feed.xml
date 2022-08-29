@@ -3,170 +3,12 @@
     <title>Ressources en SNT</title>
     <link href="https://mathsduchateau.github.io/snt/feed.xml" rel="self" />
     <link href="https://mathsduchateau.github.io/snt" />
-    <updated>2022-03-30T10:17:42+02:00</updated>
+    <updated>2022-08-29T16:02:59+02:00</updated>
     <author>
         <name>M. CASTELLINO</name>
     </author>
     <id>https://mathsduchateau.github.io/snt</id>
 
-    <entry>
-        <title>Les données structurées</title>
-        <author>
-            <name>M. CASTELLINO</name>
-        </author>
-        <link href="https://mathsduchateau.github.io/snt/les-donnees-structurees.html"/>
-        <id>https://mathsduchateau.github.io/snt/les-donnees-structurees.html</id>
-
-        <updated>2022-01-12T19:08:47+01:00</updated>
-            <summary>
-                <![CDATA[
-                     L’activité sur les formats de fichier et la carte mentale de révision Le bilan à compléter TP traitement de données avec un tableur: L’énoncé Le fichier Liste_cinemas_France_2011.xls Le fichier Liste_cinemas_Var_2011.xls TP traitement de données avec un SGBD: L’énoncé La base de données prenoms_paris.db 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-<li>L’<a href="/snt/media/files/donnees/act_formats.pdf">activité</a> sur les formats de fichier et la <a href="/snt/media/files/donnees/formats_fichiers_new.png">carte mentale</a> de révision</li>
-<li>Le <a href="/snt/media/files/donnees/bilan_a_compl.pdf">bilan</a> à compléter</li>
-<li>TP traitement de données avec un tableur:<ul>
-<li>L’<a href="/snt/media/files/donnees/tp_tableur_enonce.pdf">énoncé</a></li>
-<li>Le fichier <a href="/snt/media/files/donnees/Liste_cinemas_France_2011.xls">Liste_cinemas_France_2011.xls</a></li>
-<li>Le fichier <a href="/snt/media/files/donnees/Liste_cinemas_Var_2011.xls">Liste_cinemas_Var_2011.xls</a></li>
-</ul>
-</li>
-<li>TP traitement de données avec un SGBD:<ul>
-<li>L’<a href="/snt/media/files/donnees/tp_bdd_enonce.pdf">énoncé</a></li>
-<li>La base de données <a href="/snt/media/files/donnees/prenoms_paris.db">prenoms_paris.db</a></li>
-</ul>
-</li>
-</ul>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>TP en mathématiques</title>
-        <author>
-            <name>M. CASTELLINO</name>
-        </author>
-        <link href="https://mathsduchateau.github.io/snt/tp-en-mathematiques.html"/>
-        <id>https://mathsduchateau.github.io/snt/tp-en-mathematiques.html</id>
-
-        <updated>2021-11-29T10:06:02+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Les TP1 et TP2 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Les <a href="/snt/media/files/maths/tp1.pdf">TP1 et TP2</a></p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Internet</title>
-        <author>
-            <name>M. CASTELLINO</name>
-        </author>
-        <link href="https://mathsduchateau.github.io/snt/internet.html"/>
-        <id>https://mathsduchateau.github.io/snt/internet.html</id>
-
-        <updated>2021-11-29T10:06:09+01:00</updated>
-            <summary>
-                <![CDATA[
-                     Le bilan à compléter L’énoncé des exercices L’énoncé des travaux pratiques 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-<li>Le <a href="/snt/media/files/internet/bilan_a_compl.pdf">bilan</a> à compléter</li>
-<li>L’énoncé des <a href="/snt/media/files/internet/ex_enonce.pdf">exercices</a></li>
-<li>L’énoncé des <a href="/snt/media/files/internet/TP_simulation_enonce.pdf">travaux pratiques</a></li>
-</ul>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Le Web</title>
-        <author>
-            <name>M. CASTELLINO</name>
-        </author>
-        <link href="https://mathsduchateau.github.io/snt/le-web.html"/>
-        <id>https://mathsduchateau.github.io/snt/le-web.html</id>
-
-        <updated>2022-03-30T10:17:42+02:00</updated>
-            <summary>
-                <![CDATA[
-                     Projet “création d’un mini site Web” L’énoncé Le logiciel Publii à télécharger et installer. Les principales procédures montrées en vidéo: https://www.youtube.com/watch?v=Aeg9GAwXtxc Pour les personnes qui choisissent de coder en HTML/CSS, les fichiers de départ Pour les personnes travaillant sur le Sujet 4 (l’image numérique):&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-<li><p><strong>Projet “création d’un mini site Web”</strong></p>
-<ul>
-<li><p>L’<a href="/snt/media/files/web/projet_web_v3.pdf">énoncé</a></p>
-</li>
-<li><p>Le <a href="https://www.swisstransfer.com/d/d6958331-607f-481c-af36-17c544661b4d">logiciel Publii</a> à télécharger et installer.</p>
-<p>  Les principales procédures montrées en vidéo: <a href="https://www.youtube.com/watch?v=Aeg9GAwXtxc">https://www.youtube.com/watch?v=Aeg9GAwXtxc</a></p>
-</li>
-<li><p>Pour les personnes qui choisissent de coder en HTML/CSS, les <a href="/snt/media/files/web/html_depart.zip">fichiers de départ</a></p>
-</li>
-<li><p>Pour les personnes travaillant sur le Sujet 4 (l’image numérique): fichier <a href="/snt/media/files/web/dessin_depart.py">dessin_depart.py</a></p>
-</li>
-</ul>
-</li>
-<li><p>Le <a href="/snt/media/files/web/bilan_a_compl.pdf">bilan</a> à compléter</p>
-</li>
-<li><p>L’énoncé des <a href="/snt/media/files/web/ex_enonce.pdf">exercices</a></p>
-</li>
-</ul>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Les réseaux sociaux</title>
-        <author>
-            <name>M. CASTELLINO</name>
-        </author>
-        <link href="https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html"/>
-        <id>https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html</id>
-
-        <updated>2022-01-12T19:08:17+01:00</updated>
-            <summary>
-                <![CDATA[
-                     Mini-projet: panorama des réseaux sociaux. Diaporama de présentation Fiche de cadrage pour les élèves réalisant une carte d’identité Fiche de cadrage pour les élèves préparant un débat Devoir maison n°1: les réseaux sociaux dans la ville d’Issy Sujet descriptif de la production à réaliser&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-<li><strong>Mini-projet: panorama des réseaux sociaux.</strong><ul>
-<li><a href="/snt/media/files/rs/projet_rs.html">Diaporama</a> de présentation</li>
-<li><a href="/snt/media/files/rs/fiche_investigateur.pdf">Fiche de cadrage</a> pour les élèves réalisant une carte d’identité</li>
-<li><a href="/snt/media/files/rs/fiche_debatteur.pdf">Fiche de cadrage</a> pour les élèves préparant un débat</li>
-</ul>
-</li>
-<li><strong>Devoir maison n°1: les réseaux sociaux dans la ville d’Issy</strong><ul>
-<li><a href="/snt/media/files/rs/dm1.pdf">Sujet</a> descriptif de la production à réaliser</li>
-<li><a href="/snt/media/files/rs/sociaux_issy.xlsx">Fichier au format Excel</a> contenant les données</li>
-<li><a href="/snt/media/files/rs/sociaux_issy.ods">Fichier au format Calc</a> contenant les données</li>
-</ul>
-</li>
-<li><a href="/snt/media/files/rs/bilan_a_compl.pdf">Bilan</a> à compléter</li>
-<li><a href="/snt/media/files/rs/act_graphe_enonce.pdf">Activité</a>: modéliser un réseau social par un graphe</li>
-<li><a href="/snt/media/files/rs/diapo_e_reputation.pdf">Diaporama</a> autour de la e-réputation</li>
-<li><a href="/snt/media/files/rs/doc_e_reputation.pdf">Fiche bilan</a> autour de la e-réputation</li>
-</ul>
-
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Chapitre 0: introduction</title>
         <author>
@@ -208,25 +50,23 @@
         <link href="https://mathsduchateau.github.io/snt/un-nouvel-article.html"/>
         <id>https://mathsduchateau.github.io/snt/un-nouvel-article.html</id>
 
-        <updated>2022-03-17T11:33:10+01:00</updated>
+        <updated>2022-08-29T16:02:59+02:00</updated>
             <summary>
                 <![CDATA[
-                    Cliquez sur un chapitre pour accéder au contenu correspondant. Chapitre 0: Introduction Chapitre 1: Les réseaux sociaux Chapitre 2: Internet Chapitre 3: Les données structurées Chapitre 4: Le Web Chapitre 5: La photographie numérique Chapitre 6: Les objets connectés Chapitre 7: Cartographie et mobilité TP&hellip;
+                    Cliquez sur un chapitre pour accéder au contenu correspondant. Introduction Les réseaux sociaux Internet Les données structurées Le Web L'image numérique L'informatique embarquée Cartographie et mobilité
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p class="msg msg--info">Cliquez sur un chapitre pour accéder au contenu correspondant.</p>
-<p><a href="https://mathsduchateau.github.io/snt/chapitre-0-introduction-2.html">Chapitre 0: Introduction</a></p>
-<p><a href="https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html">Chapitre 1: Les réseaux sociaux</a></p>
-<p><a href="https://mathsduchateau.github.io/snt/internet.html">Chapitre 2: Internet</a></p>
-<p><a href="https://mathsduchateau.github.io/snt/les-donnees-structurees.html" rel="nofollow">Chapitre 3: Les données structurées</a></p>
-<p><a href="https://mathsduchateau.github.io/snt/le-web.html">Chapitre 4: Le Web</a></p>
-<p>Chapitre 5: La photographie numérique</p>
-<p>Chapitre 6: Les objets connectés</p>
-<p>Chapitre 7: Cartographie et mobilité</p>
-<p class="msg msg--highlight ">TP en mathématiques</p>
-<p>Page des <a href="https://mathsduchateau.github.io/snt/tp-en-mathematiques.html">TP en mathématiques</a></p>
+<p><a href="https://mathsduchateau.github.io/snt/chapitre-0-introduction-2.html">Introduction</a></p>
+<p><a href="https://mathsduchateau.github.io/snt/les-reseaux-sociaux.html">Les réseaux sociaux</a></p>
+<p><a href="https://mathsduchateau.github.io/snt/internet.html">Internet</a></p>
+<p><a href="https://mathsduchateau.github.io/snt/les-donnees-structurees.html" rel="nofollow">Les données structurées</a></p>
+<p><a href="https://mathsduchateau.github.io/snt/le-web.html">Le Web</a></p>
+<p><a href="https://mathsduchateau.github.io/snt/limage-numerique.html">L'image numérique</a></p>
+<p><a href="https://mathsduchateau.github.io/snt/linformatique-embarquee.html">L'informatique embarquée</a></p>
+<p><a href="https://mathsduchateau.github.io/snt/cartographie-et-mobilite.html">Cartographie et mobilité</a></p>
             ]]>
         </content>
     </entry>
