@@ -1,2 +1,2 @@
 // Skin specific Javascript
-if ("scImgMgr" in window) scImgMgr.fOverAlpha=.9;
+if ("scImageMgr" in window) scImageMgr.fOverAlpha=.9;

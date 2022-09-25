@@ -48,7 +48,7 @@ var scMapMgr = {
 		return vVal;
 	},
 	css : function(elt, rules) {
-		for ( name in rules ) {
+		for (var name in rules ) {
 			elt.style[name] = rules[name];
 		}
 		return this;

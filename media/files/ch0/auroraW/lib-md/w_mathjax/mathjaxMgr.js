@@ -1,6 +1,6 @@
 /* === MathJax manager =============================================== */
 var mathjaxMgr = {
-	// See: http://docs.mathjax.org/en/v2.6-latest/options/index.html
+	// See: http://docs.mathjax.org/en/v2.7-latest/options/index.html
 	fConfig_MathMenu : '{showLocale:false, showRenderer:false}',
 	fConfig_menuSettings : '{zoom:"Double-Click", mpContext:true, mpMouse:true}',
 	fConfig_extentions : '["tex2jax.js","mml2jax.js","MathML/content-mathml.js","MathMenu.js","MathZoom.js","fast-preview.js","AssistiveMML.js"]',
@@ -10,6 +10,7 @@ var mathjaxMgr = {
 	fForceSansSerif : false,
 	fCallbacks : [],
 	fFinished : [],
+	fActive : false,
 	fReady : false,
 	/* mathjaxMgr.register : register a callback function that will be called once MathJax is finished processing the page - MUST be called before init */
 	register : function(pCallBack){
@@ -19,6 +20,7 @@ var mathjaxMgr = {
 		try{
 			if (typeof pLoadMathJax == "undefined") pLoadMathJax = true;
 			if (pLoadMathJax){
+				this.fActive = true;
 				if (scCoLib.userAgent.match("msie [678]")) {
 					// Gestion fallback pour IE < 8
 					var vMathJaxElements = scPaLib.findNodes("des:math");
@@ -72,8 +74,13 @@ var mathjaxMgr = {
 	isReady : function(){
 		return this.fReady;
 	},
+	/* mathjaxMgr.typeset : parse an element or the whole page and typeset any unprocessed mathematics */
+	typeset : function(pElement){
+		if (!this.fActive) return;
+		if (pElement) MathJax.Hub.Queue(["Typeset",MathJax.Hub,pElement]);
+		else MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+	},
 	xReady : function(){
-		//scCoLib.log("mathjaxMgr.ready");
 		this.fReady = true;
 		for (var i=0; i<this.fCallbacks.length; i++) {
 			try {

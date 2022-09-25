@@ -16,7 +16,7 @@
  * The Initial Developer of the Original Code is 
  * samuel.monsarrat@kelis.fr
  *
- * Portions created by the Initial Developer are Copyright (C) 2010-2017
+ * Portions created by the Initial Developer are Copyright (C) 2010-2022
  * the Initial Developer. All Rights Reserved.
  *
  * Contributor(s):
@@ -165,7 +165,11 @@ scServices.scSearch = scOnLoads[scOnLoads.length] = {
 	   PUBLIC - Return the last query list.
 	   return : last searched array of query objects */
 	getLastQueryList: function(){
-	if (!this.fQueryList) this.fQueryList = JSON.parse(this.fStore.get("QueryList"));
+		if (!this.fQueryList) {
+			try {
+				this.fQueryList = JSON.parse(this.fStore.get("QueryList"));
+			} catch (e) {}
+		}
 		return this.fQueryList;
 	},
 	/* == getLastQueryResults ====================================================

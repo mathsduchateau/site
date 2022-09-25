@@ -73,6 +73,9 @@ var tplMgr = {
 				if (this.fZenMode == 3 || (this.fZenMode != 2 && vZenState=="true") || (this.fZenMode == 1 && !vZenState)) vZenBtn.click();
 			}
 
+			// Add file protocol class
+			if (window.location.protocol=="file:") this.fRoot.classList.add("fileProtocol");
+
 			scOnLoads[scOnLoads.length] = this;
 		} catch(e) {
 			alert("tplMgr init failed: "+e);

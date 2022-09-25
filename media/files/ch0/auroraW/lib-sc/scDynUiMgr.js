@@ -247,7 +247,7 @@ var dom = {
 		}
 	},
 
-	/** Retourne le premier ancestre correspondant a un sélecteur CSS */
+	/** Retourne le premier ancêtre correspondant a un sélecteur CSS */
 	selectAncestor: function (pNode, pSelector) {
 		if (pNode.closest){
 			return pNode.closest(pSelector);
@@ -282,10 +282,11 @@ dom.DomBuilder.prototype = {
 		this.fNode = pNode;
 		return this;
 	},
-	elt: function (pName, pClass) {
+	elt: function (pName, pClass, pNxtSib) {
 		var vNode = this.fDoc.createElement(pName);
 		if (pClass) vNode.setAttribute("class", pClass);
 		if (this.fOutRoot === this.fNode) this.fOut.push(vNode);
+		else if (pNxtSib) this.fNode.insertBefore(vNode, pNxtSib);
 		else this.fNode.appendChild(vNode);
 		this.fNode = vNode;
 		return this;

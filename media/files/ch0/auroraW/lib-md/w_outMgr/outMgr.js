@@ -211,6 +211,7 @@ var outMgr = {
 			vLnk.innerHTML = '<span>'+vChi.label+'</span>';
 			if (vType == "b") this.xAddToggleBtn(vDiv, vChi.label);
 			if ("scormMgr" in window) scormMgr.buildSeenBtn(vDiv, vLnk.href, vChi.label);
+			if ("mathjaxMgr" in window) mathjaxMgr.typeset(vLnk);
 		}
 		if ("scormMgr" in window) scormMgr.updateMenu();
 	},
